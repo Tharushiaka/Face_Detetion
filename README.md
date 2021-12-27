@@ -1,1 +1,1 @@
-# Face_Detetion
+# FaceDetection
